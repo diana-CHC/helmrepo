@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dianaapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-14T13:36:50.785279488+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 236d272b6073afdb1dca85d8ca66aea6345d039a0b6609e5282c6fb6680b7159
+    name: dianaapp
+    type: application
+    urls:
+    - Package/dianaapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-14T13:36:50.78461949+05:30"
